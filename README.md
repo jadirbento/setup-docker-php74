@@ -4,7 +4,7 @@
 ### Passo a passo
 Abra o terminal na maquina WSL 2 e Clone Repositório
 ```sh
-git clone https://github.com/jadirbento/setup-developer-php74.git nome-do-projeto
+https://github.com/jadirbento/setup-docker-php74.git nome-do-projeto
 ```
 
 Entre no diretório do projeto
