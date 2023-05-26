@@ -43,5 +43,5 @@ services:
 
 
 networks:
-    leveladminpanelsaas:
+    nome-do-app:
         driver: bridge
